@@ -1,0 +1,16 @@
+h1{color:rgb(156, 34, 0);
+    font-size:50px;}
+
+h2{color:chocolate}
+    
+    body{
+        background-image: url("https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1120&q=80");
+        background-size: cover;
+        width:80%; /*width of the web page */
+        margin:auto; /* left and right border */
+        padding:50px;   /*top or bottom border */
+        text-align:center;
+        font-size:large;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        background-color:black;
+    }
